@@ -16,3 +16,12 @@ AI Chatbox: Chat with Zenith, an intelligent, real-time AI built into the progra
 Dark Mode: Switch to dark mode for a modern and comfortable viewing experience.
 
 PowerRun will continue to grow with additional mini-games, custom themes, and exciting new features!
+
+---------------------------------------------------------------------------------------------------------------------
+Currently Requires python to run (I prefer Python 3.11) Will make it run as i BAT file on future versions.
+Thanks For supporting Us!
+
+
+Sincerely
+JART6174
+Head of IPGC team =)
