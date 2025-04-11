@@ -3,7 +3,7 @@ This is the successor of our old Computer Operating System Power Run 1.0  I made
 -----------------------------------------------------------------------------------------------------------------------
 DESCRIPTION
 -----------------------------------------------------------------------------------------------------------------------
-PowerRun 1.1 – A customizable, text-based program with a modern GUI and exciting new features!
+PowerRun 1.1 – A customizable, text-based program with exciting new features!
 
 PowerRun 1.1 is a versatile, interactive program built with Python and. This version introduces a sleek graphical user interface and a range of exciting updates, including:
 
